@@ -2,7 +2,7 @@
 
 ## Sommaire
 
-[TOC]
+Plateforme de remontée de données IoT en utilisant l'API Rest HTTP et le serveur Quarkus.
 
 ## 1 - Configuration de l'environnement de travail
 
